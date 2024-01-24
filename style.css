@@ -1,0 +1,103 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+    font-size:2.2em
+}
+
+a {
+    color: darkturquoise;
+}
+
+a:visited {
+    color:darkblue
+}
+
+#logo img {
+    width:13%;
+    margin-top:10px;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#yellow-div {
+    background-color: rgb(254, 254, 202);
+    height:8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top:3px solid orange;
+    margin-top:20px;
+    width:100%
+}
+
+
+#img {
+    text-align:center; 
+    font-size:1.08em;
+    margin-top:60px;
+}
+
+#img img {
+    width:56%;
+    border-radius:2%;
+    margin-left:60px;
+    margin-top:25px;
+
+}
+
+#ingredients {
+margin-right:200px;
+margin-left:360px;
+font-size:1.07em
+
+}
+
+#method {
+    margin-left:360px;
+    margin-right:200px;
+    font-size:1.07em;
+}
+
+#readmore {
+    margin-left:300px;
+}
+
+#featured {
+    border-left:3px solid orange;
+    padding:10px;
+    margin-left:360px;
+    margin-bottom:40px;
+    margin-top:40px;
+
+
+}
+
+#sally-vegas {
+    font-size: 14px;
+    color:rgb(191, 191, 191);
+    font-weight: 600;
+}
+
+#footer {
+    font-size:33px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+    background-color: rgb(238, 162, 22);
+   
+
+}
+
+#footer ion-icon {
+    padding:15px;
+
+}
